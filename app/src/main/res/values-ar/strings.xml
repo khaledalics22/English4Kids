@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English For Kids</string>
+    <string name="back">رحوع</string>
+    <string name="confirm_pass">تاكيد الباسورد</string>
+    <string name="congrats">مبروك</string>
+    <string name="congratsMessage">مبروووك!! انت رائع. لقد انهيت هذا المستوى اذهب الى المستوى التالى ؟</string>
+    <string name="currLevel">المستوى الحالى</string>
+    <string name="current">الحالى</string>
+    <string name="goToLevel">اذهب الى المستوى الحالى</string>
+    <string name="hello_kid">مرحبا يا صغيرى</string>
+    <string name="level_1">المستوى-1</string>
+    <string name="level_10">المستوى-10</string>
+    <string name="level_11">المستوى-11</string>
+    <string name="level_12">المستوى-12</string>
+    <string name="level_2">الحيوانات الجزء الاول</string>
+    <string name="level_3">المستوى-3</string>
+    <string name="level_4">المستوى-4</string>
+    <string name="level_5">المستوى-5</string>
+    <string name="level_6">المستوى-6</string>
+    <string name="level_7">المستوى-7</string>
+    <string name="level_8">المستوى-8</string>
+    <string name="level_9">المستوى-9</string>
+    <string name="name">الاسم</string>
+    <string name="nextLevel">المستوى التالى</string>
+    <string name="no">لا</string>
+    <string name="notOpened">مغلق</string>
+    <string name="previousLevel">المستوى السابق</string>
+    <string name="sendFeedback">ارسل لنا</string>
+    <string name="settings">الاعدادات</string>
+    <string name="start">ابدا</string>
+    <string name="thanks">شكرا لك</string>
+    <string name="startAgain">لا,اعد هذاالمستوى</string>
+    <string name="yes">نعم</string>
+    <string name="lesson_1_1">الحيوانات 1</string>
+    <string name="lesson_1_2">الحيوانات 2</string>
+    <string name="lesson_2_1">العائلة 1</string>
+    <string name="lesson_2_2">العائلة 2</string>
+    <string name="drop_here">اسحب وضع هنا</string>
+</resources>

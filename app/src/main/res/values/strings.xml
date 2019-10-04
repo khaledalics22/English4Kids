@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">English For Kids</string>
+    <string name="start">Start</string>
+    <string name="Continue" translatable="false">Continue</string>
+    <string name="Finish">finish</string>
+    <string name="nav_drawer_open" translatable="false">Open Navigation Drawer</string>
+    <string name="nav_drawer_close" translatable="false">Close Navigation Drawer</string>
+    <string name="hello_kid">Hello Kid</string>
+
+    <string name="lesson_1_1">Animals part 1</string>
+    <string name="lesson_1_2">Animals part 2</string>
+    <string name="lesson_2_1">family part 1</string>
+    <string name="lesson_2_2">family part 2</string>
+    <string name="level_5">Level 5</string>
+    <string name="level_6">Level 6</string>
+    <string name="level_7">Level 7</string>
+    <string name="level_8">Level 8</string>
+    <string name="level_9">Level 9</string>
+    <string name="level_10">Level 10</string>
+    <string name="level_11">Level 11</string>
+    <string name="level_12">Level 12</string>
+
+    <string name="sign_in" translatable="false">sign in</string>
+    <string name="no_emil_sign_up" translatable="false">don\'t have email? sign up!</string>
+    <string name="enter_name" translatable="false">enter name or email</string>
+    <string name="enter_pass" translatable="false">enter password</string>
+    <string name="confirm_pass">confirm password</string>
+    <string name="forgot_email" translatable="false">forgot your email?</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="sign_out" translatable="false">Sign Out</string>
+    <string name="sendFeedback">send feedback</string>
+    <string name="settings">settings</string>
+    <string name="profile" translatable="false">profile</string>
+    <string name="wrong" translatable="false">Wrong</string>
+    <string name="currLevel">current level</string>
+    <string name="goToLevel">Go to my level</string>
+    <string name="notOpened">Not opened yet</string>
+
+
+    <string name="e_bee" translatable="false">bee</string>
+    <string name="e_chicken" translatable="false">chicken</string>
+    <string name="e_dog" translatable="false">dog</string>
+    <string name="e_duck" translatable="false">duck</string>
+    <string name="e_elephant" translatable="false">elephant</string>
+    <string name="e_flounder" translatable="false">flounder</string>
+    <string name="e_octopus" translatable="false">octopus</string>
+    <string name="e_whale" translatable="false">whale</string>
+    <string name="e_snake" translatable="false">snake</string>
+    <string name="e_sheep" translatable="false">sheep</string>
+    <string name="e_bear" translatable="false">bear</string>
+
+    <string name="e_cat" translatable="false">cat</string>
+    <string name="e_eagle" translatable="false">eagle</string>
+    <string name="e_gorilla" translatable="false">gorilla</string>
+    <string name="e_wolf" translatable="false">wolf</string>
+    <string name="e_seaLion" translatable="false">sea lion</string>
+    <string name="e_frog" translatable="false">frog</string>
+
+    <string name="a_bee" translatable="false">نحلة</string>
+    <string name="a_chicken" translatable="false">دجاجة</string>
+    <string name="a_dog" translatable="false">كلب</string>
+    <string name="a_duck" translatable="false">بطة</string>
+    <string name="a_elephant" translatable="false">فيل</string>
+    <string name="a_flounder" translatable="false">سمكةالفولندر(المفلطح)</string>
+    <string name="a_octopus" translatable="false">اخطبوط</string>
+    <string name="a_whale" translatable="false">حوت</string>
+    <string name="a_snake" translatable="false">ثعبان</string>
+    <string name="a_sheep" translatable="false">خروف</string>
+    <string name="a_bear" translatable="false">دب</string>
+    <string name="a_cat" translatable="false">قطة</string>
+    <string name="a_eagle" translatable="false">نسر</string>
+    <string name="a_gorilla" translatable="false">غوريللا</string>
+    <string name="a_wolf" translatable="false">ذئب</string>
+    <string name="a_seaLion" translatable="false">اسد البحر</string>
+    <string name="a_frog" translatable="false">ضفدع</string>
+
+
+    <string name="congrats">Congrats</string>
+    <string name="thanks">Thanks</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="congratsMessage">Congratulations!!!, you are awesome. You finished this level \n want to go to next level?</string>
+    <string name="name">name</string>
+    <string name="password" translatable="false">pass</string>
+    <string name="current">current</string>
+    <string name="nextLevel">Next Level</string>
+    <string name="back">back</string>
+    <string name="previousLevel">Previous Level</string>
+    <string name="startAgain">Start Again</string>
+    <string name="nav_open_drawer" translatable="false">Open Navigation Drawer</string>
+    <string name="nav_close_drawer" translatable="false">Close Navigation Drawer</string>
+    <string name="level_2">Animals part 2</string>
+    <string name="level_3">Family part 1</string>
+    <string name="level_4">Family Part 2</string>
+    <string name="level_1">level 1</string>
+    <string name="drop_here">Drop Here</string>
+
+</resources>

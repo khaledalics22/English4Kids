@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group_1">
+    <item android:title="@string/lesson_1_1"
+        android:icon="@drawable/ic_lock_open_black_24dp"
+        android:id="@+id/level_nav_1"/>
+    <item android:title="@string/level_2"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_2"/>
+    <item android:title="@string/level_3"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_3"/>
+    <item android:title="@string/level_4"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_4"/>
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group_2">
+    <item android:title="@string/level_5"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_5"/>
+    <item android:title="@string/level_6"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_6"/>
+    <item android:title="@string/level_7"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_7"/>
+    <item android:title="@string/level_8"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_8"/>
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group_3">
+    <item android:title="@string/level_9"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_9"/>
+    <item android:title="@string/level_10"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_10"/>
+    <item android:title="@string/level_11"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_11"/>
+    <item android:title="@string/level_12"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:id="@+id/level_nav_12"/>
+    </group>
+</menu>
